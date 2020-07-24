@@ -1,1 +1,5 @@
 *.exe
+*.swo
+*.swp
+*.cpp~
+*.un~
