@@ -38,7 +38,7 @@ int main() {
     vector<PF> pfv;
     pfv.push_back(add);
     pfv.push_back(sub);
-    pfv.push_back(mul);
+    pfv.push_back(mul); 
     pfv.push_back(dev);
     int a = 8, b = 0;
     for ( auto p : pfv ) {
