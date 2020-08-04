@@ -4,6 +4,7 @@
 class A {
     public:
         A();
+        A(A a);
         void PrintIvec() const; 
     private:
         std::vector<int> ivec;
@@ -13,6 +14,10 @@ A::A() {
     ivec.push_back(1);
     ivec.push_back(2);
     ivec.push_back(3);
+}
+
+A::(A a) {
+    
 }
 
 void A::PrintIvec() const {
