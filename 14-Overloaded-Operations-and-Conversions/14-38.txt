@@ -1,0 +1,5 @@
+The malware and “infected” questions relate to a malicious version of CCleaner released in 2017 where hackers managed to insert code to steal data from users. It was also rumoured back in 2019 that Microsoft planned to include links to the site on a block list on its own community forums, for fear that enthusiastic amateurs could do more harm than good with the power of a Registry cleaner.
+
+Still, the firm is confident that this latest issue with Windows 10 will prove to be short lived. 
+
+“We are in the process of engaging with Microsoft to understand why CCleaner was recently detected as PUA,” a CCleaner spokesperson told TechRadar. “We surmise the issue appears to be around bundling, and we believe we have addressed this so that our product is now no longer flagged.” 
